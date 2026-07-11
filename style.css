@@ -386,3 +386,18 @@ nav a:hover {
     justify-content: center;
   }
 }
+
+footer {
+  background-color: #0d1b2a;
+  color: white;
+  padding: 30px 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-right {
+  display: flex;
+  gap: 15px;
+}
